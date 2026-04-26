@@ -1,4 +1,4 @@
-# reddit-wallpaper-setter-
+# wpsetter
 A lightweight Python CLI tool that automatically updates your desktop wallpaper on startup using the latest high-resolution images from your favorite subreddits.
 
 ## Features
@@ -12,7 +12,7 @@ The recommended way to install wpsetter is via pipx. This installs the tool in a
 Install via pipx:
 
 ```bash
-pipx install git+https://github.com/chris112255/reddit-wallpaper-setter-.git
+pipx install git+https://github.com/chris112255/wpsetter.git
 ```
 
 ## Usage
