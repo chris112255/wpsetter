@@ -1,0 +1,7 @@
+[project]
+name = "wpsetter"
+version = "0.1.0"
+dependencies = []
+
+[project.scripts]
+wpsetter = "reddit_wallpaper_setter:main"
